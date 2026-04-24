@@ -273,10 +273,7 @@ Together they form a research infrastructure for low-resource Wolof NLP.
 ## Author
 
 **Sokhna Maïmouna MBACKE**
-Native Wolof speaker · Computational linguistics · NLP for low-resource languages
 [github.com/maimouna-mbacke](https://github.com/maimouna-mbacke)
-
-*Part of a broader research initiative on NLP infrastructure for low-resource West African and Maghrebi languages.*
 
 ---
 
