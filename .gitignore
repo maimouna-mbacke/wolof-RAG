@@ -1,0 +1,52 @@
+# ── Virtual environments ──────────────────────────────────────
+.venv/
+venv/
+.venv1/
+.venv13/
+.venv_working/
+env/
+
+# ── Python cache ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Data & resources (copyright — not redistributed) ─────────
+Wolof_Resources/
+Wolof_Resources_Text/
+Wolof_Segmented/
+Wolof_Knowledge_Base/
+Wolof_Morphology_Patterns/
+
+# ── ChromaDB vector store (rebuild locally with build_rag.py) ─
+wolof_rag_db/
+
+# ── YouTube / scraped datasets ────────────────────────────────
+wolof_dataset/
+wolof_youtube_*.json
+wolof_youtube_*.csv
+wolof_dataset_*.json
+wolof_dataset_*.csv
+wolof_urls_*.txt
+downloads/
+
+# ── Temporary / internal files ────────────────────────────────
+wolof_morphology_rules.txt
+*.txt.bak
+
+# ── macOS ─────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDE ───────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Environment variables ─────────────────────────────────────
+.env
+.env.local
