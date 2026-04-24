@@ -272,7 +272,7 @@ Together they form a research infrastructure for low-resource Wolof NLP.
 
 ## Author
 
-**Sokhna Maïmouna MBACKE**
+**Maimouna MBACKE**
 [github.com/maimouna-mbacke](https://github.com/maimouna-mbacke)
 
 ---
@@ -285,4 +285,4 @@ MIT License — see [LICENSE](LICENSE)
 
 ## Citation
 
-If you use this pipeline in your research, please cite the primary sources listed above and reference this repository.
+If you use this pipeline in your research, please consider citing the primary sources listed above.
