@@ -8,7 +8,7 @@
 
 ## Overview
 
-`wolof-RAG` is a fully local RAG system built for **Wolof**, a Niger-Congo language spoken by approximately 10 million people in Senegal and The Gambia, and severely under-resourced in NLP.
+`wolof-RAG` is a fully local RAG system built for the **Wolof** language.
 
 The system enables semantic search over linguistically segmented chunks extracted from primary Wolof research sources, covering phonology, morphology, syntax, semantics, pragmatics, and more.
 
